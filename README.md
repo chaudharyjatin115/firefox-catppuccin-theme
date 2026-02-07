@@ -72,3 +72,4 @@ catppucin/
 - Based on GNOME WhiteSur GTK theme aesthetic
 - Colors from [Catppuccin](https://github.com/catppuccin) project
 - Custom SVG window button designs
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73dae267-9dfa-49d8-a1ca-84fb4802e8a3" />
