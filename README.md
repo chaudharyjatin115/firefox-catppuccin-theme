@@ -1,4 +1,4 @@
-# Firefox WhiteSur Theme - Catppuccin Macchiato Edition
+# Firefox Theme - Catppuccin Macchiato Edition
 
 A modern Firefox theme for Linux with full GTK integration and Catppuccin Macchiato color scheme support.
 
