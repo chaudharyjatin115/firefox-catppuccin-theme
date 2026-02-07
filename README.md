@@ -56,7 +56,7 @@ Each button has variants for:
 ## Theme Structure
 
 ```
-WhiteSur/
+catppucin/
 ├── colors/              # Color schemes
 │   ├── dark.css        # Dark theme colors (Macchiato)
 │   ├── light.css       # Light theme colors
